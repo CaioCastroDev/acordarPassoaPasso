@@ -1,0 +1,19 @@
+Acordar - Passo a Passo
+
+Antes de dormir, coloquei o celular para despertar? {
+    Se Sim {
+        Durmo até o despertador tocar;
+        Ouço o toque;
+        Abro os olhos;
+        Me levanto;
+        Volto até o celular;
+        Desligo o alarme;
+        Vivo minha vida;
+    }
+    Se não, então {
+        Durmo até acordar narutamente;
+        Abro os olhos;
+        Me levanto;
+        Vivo minha vida;
+    }
+}
